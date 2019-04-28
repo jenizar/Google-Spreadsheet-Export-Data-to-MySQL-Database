@@ -2,6 +2,10 @@
 
 Google Spreadsheet Export Data to MySQL Database using Google App Script and Python
 
+Youtube video:
+
+https://youtu.be/AJHkyih8tro
+
 Template data:
 
 https://docs.google.com/spreadsheets/d/1EI3XO8nqMUUn-WzwBkzLlCSsQ9hI3pvFw2JgaPiaH18/edit?usp=sharing
