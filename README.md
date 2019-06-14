@@ -2,6 +2,8 @@
 
 Google Spreadsheet Export Data to MySQL Database using Google App Script and Python
 
+![alt text](https://github.com/jenizar/Google-Spreadsheet-Export-Data-to-MySQL-Database/blob/master/Screenshot.png)
+
 Youtube video:
 
 https://youtu.be/AJHkyih8tro
